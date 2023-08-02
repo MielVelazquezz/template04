@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/galaxia.jpg);
+}
+.sConteiner{
+    display: flex;
+    justify-content: space-around;
+    margin: 2%;
+}
+.card-text{
+    font-size: 25px;
+}
